@@ -1,0 +1,34 @@
+Aftab Musaa
+Student ID: 31418867
+amusaa@u.rochester.edu
+2048 Project Synopsis 
+CSC 172 Lab Section MW 325-440
+10/10/18
+
+In this project, I created a board with integers with an 80% chance of showing 2 and a
+20% chance of showing a 4. I implemented multiple methods to try and move the integers
+within the 4x4 gameboard. The methods I used were made to print borders, shift integers left
+and right, moving the integers up or down, combining integers left or right, and using keys
+to ask the player whether or not they want to quit the game. I also had to implement a reset
+button that allows the player to restart their game. I made two classes, one for the board and
+one for the controller that the player will input their keys. One thing to note, my moving 
+left method for some reason moves my integers to the right. *The only method that works
+properly is my combining and moving down integers. Gal and Liza, I tried my best to fix
+these issues by myself and could not in the end. I've been freaking out over this and tried
+to get help with the issues but was busy with all my calculus and discrete midterms. I'm
+sorry that this is not complete and has errors, as I did try my best. I'm still struggling 
+to keep up with 172 as I technically completed the 171 equivalent course in my old
+university which covered half of the 171 course in UofR. 
+
+
+
+
+
+
+
+
+
+
+
+
+
