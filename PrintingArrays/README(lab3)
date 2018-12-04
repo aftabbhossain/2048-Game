@@ -1,0 +1,37 @@
+Aftab Musaa
+Student ID: 31418867
+amusaa@u.rochester.edu
+Lab 3 (Array, ArrayLists, Iterations) Synopsis 
+CSC 172 Lab Section MW 325-440
+09/29/18
+
+Lab 3 required us to complete 3 tasks. The first task required us to utilize 
+arrays and implementing print2Darray function in order to output the integers
+within the array in columns and rows. In order to keep the format of show casing
+the integers within the array in line with each other, I implemented spaces after 
+any integer less than 10. By doing this, the single digit integers became in line 
+with the double digit integers, thus forming the column and row formation. Task 2
+required us to implement the runningSum2DArray and what that function essentially did
+was take the array from task 1 and then take the sum of the two integers and lay the 
+sum within the array. The new array contained overall larger integers. We also 
+implemented the function print2DList which essentially listed out the new array within
+the output. Finally, task 3 required us to iterate the ArrayList in 4 different ways. 
+The 4 ways included while/for loops, enhanced for loops, for loops with iterators, and
+the while loop with iterators. 
+
+The src code are divided into three sections each containing the separate tasks of lab3.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

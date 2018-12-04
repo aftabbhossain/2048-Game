@@ -1,0 +1,33 @@
+Aftab Musaa
+Student ID: 31418867
+amusaa@u.rochester.edu
+Lab 2 (Java Generics) Synopsis 
+CSC 172 Lab Section MW 325-440
+10/19/18
+
+Lab 4 required us to make DNA strings by implementing linked lists within
+the code. I have 4 classes to divide up the work. The first class is for the
+list itself. The list class is in charge of moving the elements from their current
+positions to the previous one, moving elements to the head or tail, appending, 
+and inserting. The link class is where I implemented the methods for the setters 
+and getters. The Biol class is where I implemented the methods in charge of
+inserting, removing, printing, clipping, copying, and transcribing the positions.
+**This lab was really confusing for me because I found the directions to be very
+vague. I really tried my best to try and complete the lab but could not do so :'(.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
